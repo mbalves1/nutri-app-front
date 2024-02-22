@@ -3,6 +3,7 @@
   <div class="bg-red-500">
     olas
   </div>
+  <Button>save</Button>
   <AvatarRoot class="bg-blackA3 inline-flex h-[45px] w-[45px] select-none items-center justify-center overflow-hidden rounded-full align-middle">
       <AvatarImage
         class="h-full w-full rounded-[inherit] object-cover"
